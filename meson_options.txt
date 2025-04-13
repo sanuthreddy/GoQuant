@@ -1,0 +1,1 @@
+option('is_test', type : 'boolean', value : false, description : 'Enable test build configuration')
